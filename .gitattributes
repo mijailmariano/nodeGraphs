@@ -1,2 +1,2 @@
 # detect Markdown files in language recognition
-*.md linguist-detectable=true
+*.md linguist-detectable
