@@ -9,4 +9,3 @@ flowchart TB
     D -->|Yes| E(Send email with magic link)
     B -->|Yes| E
     E -->End;
-```

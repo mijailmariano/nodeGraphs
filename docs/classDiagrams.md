@@ -23,4 +23,3 @@ classDiagram
     Customer <|-- BusinessCustomer
     PaymentProcessor <|-- StripePaymentProcessor
     PaymentProcessor <|-- PayPalPaymentProcessor
-```

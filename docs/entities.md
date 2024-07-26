@@ -19,4 +19,3 @@ erDiagram
         Int Quantity
         Int Price
     }
-```

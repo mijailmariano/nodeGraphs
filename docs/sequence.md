@@ -18,4 +18,3 @@ sequenceDiagram
     deactivate OAuthProvider
     Server->>Client: Send resource
     deactivate Server
-```
