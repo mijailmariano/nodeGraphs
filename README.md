@@ -1,4 +1,4 @@
-# Decription
+# Description
 
 Sandbox environment for testing various graph visualization tools. Initially focusing on ``Mermaid`` for building and visualizing technical relational graphs.
 
